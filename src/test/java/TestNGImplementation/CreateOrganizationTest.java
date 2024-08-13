@@ -9,7 +9,7 @@ import genericUtilities.TabNames;
 import objectRepo.CreatingNewOrganizationPage;
 import objectRepo.OrganizationInformationPage;
 import objectRepo.OrganizationsPage;
-//This test validate if new Organization created.
+//This test validate if new Organization createsd.
 public class CreateOrganizationTest extends BaseClass {
        @Test (groups="organizations")
 
