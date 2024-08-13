@@ -10,7 +10,7 @@ import objectRepo.CreatingNewOrganizationPage;
 import objectRepo.OrganizationInformationPage;
 import objectRepo.OrganizationsPage;
 
-//This test validate if user create new Organizationsss.
+//This test validate if user create new Organizationssss.
 public class CreateOrganizationTest extends BaseClass {
        @Test (groups="organizations")
 
