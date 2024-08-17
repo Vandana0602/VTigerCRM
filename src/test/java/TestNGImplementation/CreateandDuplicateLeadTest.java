@@ -2,6 +2,8 @@ package TestNGImplementation;
 
 import java.util.Map;
 
+//This test verified if user is able to create and duplicate.
+
 import org.testng.annotations.Test;
 
 import genericUtilities.BaseClass;
