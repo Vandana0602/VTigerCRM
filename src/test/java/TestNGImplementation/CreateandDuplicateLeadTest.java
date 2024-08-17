@@ -2,7 +2,7 @@ package TestNGImplementation;
 
 import java.util.Map;
 
-//This test verified if user is able to create and duplicate.
+//This test verified if user is able to create and duplicates.
 
 import org.testng.annotations.Test;
 
